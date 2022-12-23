@@ -1,0 +1,52 @@
+{
+  "metaTitle": "Ron on the web",
+  "metaDescription": "Places you can find me online",
+  "name": "Find Ron Online",
+  "theme": "glitch",
+  "avatarImage": "",
+  "links": [
+    {
+      "url": "https://ronbronson.design",
+      "text": "Blog",
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
+      "altText": "Personal blog"
+    },
+    {
+      "url": "https://ronbronson.medium.com/pesapallo-9dc4d3f1ed5e",
+      "text": "Why I tweet in Finnish (sometimes)",
+      "img": ""
+    }
+  ],
+  "social": {
+    "glitch": "https://glitch.com/@quarterback",
+    "arena": "https://www.are.na/ron-b",
+    "bandcamp": "",
+    "cohost": "",
+    "dev": "https://dev.to/quarterback",
+    "facebook": "",
+    "github": "https://github.com/quarterback",
+    "gitlab": "",
+    "hashnode": "",
+    "instagram": "instagram.com/ronbronson",
+    "keybase": "",
+    "kofi": "",
+    "letterboxd": "letterboxd.com/ronbronson",
+    "linkedin": "https://www.linkedin.com/in/ronbronson",
+    "mastodon": "https://mastodon.social/@ronbronson",
+    "medium": "https://medium.com/@ronbronson",
+    "patreon": "",
+    "pinboard": "",
+    "pinterest": "",
+    "podcast": "",
+    "soundcloud": "",
+    "spotify": "https://open.spotify.com/user/ronbronson?si=7826ae1b88504e3c",
+    "stackoverflow": "",
+    "substack": "",
+    "twitter": "https://twitter.com/ronbronson",
+    "twitch": "",
+    "tiktok": "",
+    "tumblr": "https://app.thestorygraph.com/profile/quarterback",
+    "youtube": "https://www.youtube.com/c/GlitchDotCom",
+    "email": "contact@ronbronson.com"
+  }
+}
